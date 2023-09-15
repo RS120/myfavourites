@@ -1,0 +1,63 @@
+html {
+    background-color: beige;
+}
+
+body {
+    background-color: beige ;
+    border-radius: 15px;
+    width: 750px;
+    margin: 25px auto;
+    padding: 25px 150px 50px; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:xx-large
+    
+}
+
+h1, h2 {
+    letter-spacing: 2px;
+}
+
+h2 {
+    margin-top: 50px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+a {
+    color: mediumblue;
+}
+
+a:hover {
+    font-weight: bold;
+    
+}
+
+.blue {
+color: darkblue;
+}
+
+.orange {
+    color: orangered;
+}
+
+.grey {
+    color: darkslategrey;
+}
+
+.center {
+    margin-right: auto;
+}
+
+image {
+    border-radius: 25px;
+}
+
+img {
+    border-radius: 15px;
+}
+
+
